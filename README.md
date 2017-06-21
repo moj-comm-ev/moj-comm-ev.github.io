@@ -1,6 +1,5 @@
-# Communicating Evidence Effectively
-
 ## Why is communicating evidence important?
+
 
 ### Inform and influence decision making
 Understanding and using evidence effectively is crucial to inform good decision making. Analytical Services produce a wide range of analysis and evidence to inform and influence decision making across the Ministry of Justice.
@@ -43,7 +42,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Test Link](001_overview.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
